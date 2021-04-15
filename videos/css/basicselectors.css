@@ -7,3 +7,6 @@ body {
 
 .product {
 }
+a[href*="startpage"] {
+  color: orange;
+}
