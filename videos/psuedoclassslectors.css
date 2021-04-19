@@ -13,3 +13,12 @@ article p:last-of-type {
 ul li:nth-child(odd) {
   color: deeppink;
 }
+a:visited,
+a:link {
+  color: dodgerblue;
+}
+
+a:hover,
+a:focus {
+  color: firebrick;
+}
