@@ -3,5 +3,4 @@
 
   height: 200px;
 
-  background: linear-gradient(45deg, dodgerblue, yellow, tomato);
-}
+  background: radial-gradient(white, yellow)
