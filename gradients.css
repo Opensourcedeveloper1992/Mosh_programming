@@ -3,4 +3,5 @@
 
   height: 200px;
 
-  background: radial-gradient(circle, white, yellow)
+  background: rgb(9,9,121);
+  background: linear-gradient(32deg, rgba(9,9,121,1) 35%, rgba(0,227,255,1) 100%);
