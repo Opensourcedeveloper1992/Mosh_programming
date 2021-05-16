@@ -4,5 +4,6 @@
   background: dodgerblue;
   border: 10px dashed royalblue;
 
-  border-width: 10px 20px 20px 10px; /*trbl */
+  /*border-width: 10px 20px 20px 10px; trbl */
+  border-radius: 10px;
 }
