@@ -3,5 +3,6 @@
   height: 200px;
   background: dodgerblue;
   border: 10px dashed royalblue;
-  border-top: 20px dotted green;
+
+  border-width: 10px 20px 20px 10px;
 }
